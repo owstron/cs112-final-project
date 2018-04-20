@@ -1,0 +1,3 @@
+Lueders_et al_2017_driverslicenses_replication.dta (application/x-stata) 389782 bytes.
+Lueders_et al_2017_driverslicenses_replicationcode_final.R (type/x-r-syntax) 60422 bytes.
+vcovCluster.R (type/x-r-syntax) 631 bytes.
